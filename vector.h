@@ -1,0 +1,8 @@
+//
+// Created by Jonathan R. on 24/03/2023.
+//
+
+#ifndef VECTOR_TEXT_BASED_EDITOR_VECTOR_H
+#define VECTOR_TEXT_BASED_EDITOR_VECTOR_H
+
+#endif //VECTOR_TEXT_BASED_EDITOR_VECTOR_H
