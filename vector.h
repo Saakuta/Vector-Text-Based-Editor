@@ -1,8 +1,7 @@
-//
-// Created by Jonathan R. on 24/03/2023.
-//
+#include <stdio.h>
 
 #ifndef VECTOR_TEXT_BASED_EDITOR_VECTOR_H
 #define VECTOR_TEXT_BASED_EDITOR_VECTOR_H
 
+char menu_1();
 #endif //VECTOR_TEXT_BASED_EDITOR_VECTOR_H

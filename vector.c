@@ -1,5 +1,7 @@
-//
-// Created by Jonathan R. on 24/03/2023.
-//
-
+#include <stdio.h>
 #include "vector.h"
+
+int main() {
+    printf("Hello World");
+
+}
