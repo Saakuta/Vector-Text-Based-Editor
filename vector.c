@@ -2,6 +2,6 @@
 #include "vector.h"
 
 int main() {
-    printf("Hello World");
+    menu_1();
 
 }
